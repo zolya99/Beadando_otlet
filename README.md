@@ -9,3 +9,6 @@ Több hibát sikerült javítani pl.: Kijelentkezéskor már nem kell kétszer a
 
 Ötödik commit: Elkészítettem az upload.php-t, amivel az adatbázisomba és a felhőtárhelyemre egyaránt fel tudom tölteni a képet. Hasonlóképp az uploadSong.php, amivel viszont
 csak az adatbázisba tudok feltölteni nevet, albumot, előadót, időtartamot és magát a fájlt. Ennek a fájlnak a lejátszását egyelőre nem sikerült megoldanom.
+
+Utolsó commit: A fájl lejátszást nem sikerült megoldanom. A profile.php oldalon sikerült elérhetőve tenni a módosítást, így már bármikor megváltoztathatók az adatok.
+ A zene törlésénél ha sima felhasználó szeretne törölni, akkor emailt kell írnia a website üzemeltetőjének.
